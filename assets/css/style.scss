@@ -1,0 +1,43 @@
+---
+---
+
+@import "minima";
+
+body {
+  font-family: -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, Helvetica, sans-serif;
+  line-height: 1.8;
+  font-size: 17px;
+  color: #333;
+}
+
+.site-header {
+  border-top: 4px solid #424242;
+  border-bottom: 1px solid #e8e8e8;
+  min-height: 60px;
+}
+
+a {
+  color: #0366d6;
+  text-decoration: none;
+  
+  &:hover {
+    color: #0076ff;
+    text-decoration: underline;
+  }
+}
+
+.wrapper {
+  max-width: 800px;
+  padding: 0 30px;
+}
+
+.post-title {
+  font-size: 2.2rem;
+  letter-spacing: -0.5px;
+  font-weight: 600;
+}
+
+pre, code {
+  background-color: #f6f8fa;
+  border-radius: 3px;
+}
