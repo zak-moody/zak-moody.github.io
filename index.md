@@ -1,3 +1,8 @@
-# Hello World!
+---
+layout: default
+---
 
-I just got myself a new pen. Ready to write!
+# Hello World! ✍️
+
+I just got myself a **new pen**—*ready to write*!  
+Let’s make some ideas come to life.
