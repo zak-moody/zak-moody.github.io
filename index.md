@@ -1,10 +1,9 @@
 ---
 layout: home
+title: "Home"
 ---
 
-## Welcome
-
-This is where I share my thoughts, ideas, and coding explorations. 
+This is where I share my thoughts, ideas, and coding explorations.
 
 My aim is to document interesting problems I encounter and solutions I discover along the way.
 
