@@ -1,3 +1,5 @@
 title: ""
-description: "Zak's space for sharing ideas and thoughts."
-theme: jekyll-theme-minimal
+     description: ""
+     theme: jekyll-theme-minimal
+     show_downloads: false
+     show_sidebar: false
