@@ -1,2 +1,8 @@
-title: ""
+title: "My Digital Diary"
+author: "Zak Moody"
+description: "Ideas & reflections"
 theme: minima
+
+minima:
+  social_links:
+    github: zak-moody
